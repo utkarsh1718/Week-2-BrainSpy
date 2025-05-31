@@ -10,5 +10,5 @@ Converting NIfTI to DICOM required careful handling of voxel types (float32 not 
 DICOM visualization was more sensitive to file ordering, requiring robust sorting logic.
 Finding a valid DICOM dataset online was time-consuming due to broken or expired links.
 
-#CONCLUSION.
+CONCLUSION.
 This task helped build practical experience with 3D medical imaging data. I now understand the structural differences between DICOM and NIfTI formats, how to load and visualize them in Python, and the challenges of working with real-world clinical data formats.
